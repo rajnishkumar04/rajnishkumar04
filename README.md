@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Rajnish Kumar</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">A passionate fullstack  developer from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rajnishkumar04&label=Profile%20views&color=0e75b6&style=flat" alt="rajnishkumar04" /> </p>
 
@@ -7,13 +7,13 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🌱 I’m currently learning **c++**
+- 🌱 I’m currently learning **dsa**
 
-- 👯 I’m looking to collaborate on **Web Dev**
+- 👯 I’m looking to collaborate on **fullstack Dev**
 
-- 🤝 I’m looking for help with **c**
+- 🤝 I’m looking for help with **c++**
 
-- 💬 Ask me about **c**
+- 💬 Ask me about **c++**
 
 - 📫 How to reach me **rajnishkumar721234@gmail.com**
 
